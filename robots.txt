@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://example.com/sitemap.xml
+Sitemap: http://example.com/baidusitemap.xml
